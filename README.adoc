@@ -1,5 +1,4 @@
 = Polkadot
-![](https://github.com/MicrohexHQ/polkadot/blob/master/U/AI/Artboard%20Image%20(%200000%20).jpg)
 
 :Author: Polkadot developers
 :Revision: 0.3.0
