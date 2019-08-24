@@ -5,6 +5,7 @@
 :sectnums:
 
 Implementation of a https://polkadot.network node in Rust.
+![](https://github.com/MicrohexHQ/polkadot/blob/master/U/AI/Artboard%20Image%20(%200000%20).jpg)
 
 == NOTE
 
